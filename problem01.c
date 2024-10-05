@@ -2,8 +2,10 @@
 
 int main()
 {
-    int n = 4;
+    int n;
     int sum = 0;
+    printf("Enter your number:");
+    scanf("%d", &n);
 
     for (int i = 0; i <= n; i++)
     {
