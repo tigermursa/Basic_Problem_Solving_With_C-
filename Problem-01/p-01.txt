@@ -1,0 +1,4 @@
+Problem is Take integer input like any number for example 3 .
+then show the numbers like 1 + 2 + 3 = 6
+and if 4 then 1 + 2 + 3 + 4 = 10
+and if 5 then 1 + 2 + 3 + 4 + 5 = 15
