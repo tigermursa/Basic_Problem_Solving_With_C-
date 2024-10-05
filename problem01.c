@@ -1,19 +1,21 @@
+//  sum 1 to n
+
 #include <stdio.h>
 
 int main()
 {
+
     int n;
     int sum = 0;
-    printf("Enter your number:");
+    printf("what is your number:");
     scanf("%d", &n);
 
     for (int i = 0; i <= n; i++)
     {
 
-        sum = sum + i;
+        sum += i;
     }
 
-    printf("%d\n", sum);
-
+    printf("the sum is %d i like this %d number", sum, sum);
     return 0;
 }
