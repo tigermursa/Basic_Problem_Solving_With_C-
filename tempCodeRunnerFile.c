@@ -1,1 +1,4 @@
- // printf("%d \n", i);
+ for (int j = 6; j > i; j--)
+        {
+            printf("  "); //
+        }

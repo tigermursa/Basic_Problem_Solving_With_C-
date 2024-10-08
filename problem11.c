@@ -1,5 +1,5 @@
 /*
-    Pattern 2 start
+    Pattern 6 start
 1 
 2 1 
 3 2 1
