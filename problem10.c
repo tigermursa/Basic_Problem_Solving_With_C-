@@ -18,21 +18,21 @@
 
 int main()
 {
-    for (int i = 1; i <= 6; i++) // loop for each row
+    for (int i = 1; i <= 6; i++) 
     {
         // Print leading spaces
-        for (int j = 6; j > i; j--) // this loop prints the spaces
+        for (int j = 6; j > i; j--) 
         {
-            printf("  "); // print two spaces for each iteration
-        }
+            printf("  "); 
 
         // Print stars
-        for (int j = 1; j <= i; j++) // this loop prints the stars
+        for (int j = 1; j <= i; j++) 
         {
             printf("* ");
         }
         printf("\n"); // move to the next line after printing stars
     }
+    // pattern 3
     for (int i = 6; i >= 1; i--)
     {
         // printf("%d \n", i);
