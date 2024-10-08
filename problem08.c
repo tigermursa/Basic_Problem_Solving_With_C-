@@ -1,5 +1,5 @@
 /*
-    Pattern 2 start
+    Pattern 3 start
 
     * * * * *
     * * * *
